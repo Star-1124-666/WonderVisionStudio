@@ -1,0 +1,19 @@
+# Build output
+build_config/
+build_msvc/
+build_export*/
+release_export*/
+
+# Generated portable export
+WonderVisionStudio_Export/
+WonderVisionStudio_Export.zip
+
+# MSVC / Qt generated files
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+Makefile
+Makefile.*
+.qmake.stash
